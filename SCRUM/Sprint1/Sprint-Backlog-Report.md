@@ -1,4 +1,4 @@
-# Sprint Backlog Report - Sprint 1: Project planning and setup
+# Sprint Backlog Report - Sprint 1: Project planning and toolchain setup
 
 **Sprint Duration**: November 01, 2024 - November 16, 2024  
 
